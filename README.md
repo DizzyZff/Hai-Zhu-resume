@@ -6,8 +6,7 @@
 
 ## EDUCATION
 
-New York University, Courant Institute of Mathematical Sciences, NY <p align="right">Dec 2022</p>  
-Bachelor of Arts, Computer Science Major <p align="right">GPA: 3.7<p>
+New York University, Courant Institute of Mathematical Sciences, NY <p align="right">Dec 2022</p> Bachelor of Arts, Computer Science Major <p align="right">GPA: 3.7<p>
 
 TECHNICAL SKILLS
 ● Coding Languages: Python, Java, SQL, HTML, CSS, JavaScript, PHP, C/C++
