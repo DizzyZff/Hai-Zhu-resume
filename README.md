@@ -1,6 +1,5 @@
 # Hai (Desmond) Zhu
 
-============
 (646) 409-6718 • hz1778@nyu.edu • <https://www.linkedin.com/in/hai-zhu-6463021a2> / • <https://github.com/dizzyzff>
 
 ------------
