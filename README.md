@@ -6,7 +6,7 @@
 
 ## EDUCATION
 
-New York University, Courant Institute of Mathematical Sciences, NY Dec 2022
+New York University, Courant Institute of Mathematical Sciences, NY Dec 2022  
 Bachelor of Arts, Computer Science Major GPA: 3.7
 
 TECHNICAL SKILLS
