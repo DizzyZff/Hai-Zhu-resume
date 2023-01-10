@@ -45,7 +45,7 @@ New York University, Courant Institute of Mathematical Sciences, NY <p align="ri
 * Created and trained a ReLU and sequential neural network model to predict user inputs’ classification.
 * Applied agile methodology, and managed a small team to meet capstones by planning and holding weekly meetings. Presented to a class of 70 on the approach to building the chatbot and how it performs.
 
-### Cyberpunk mini-game (GameMaker Language or GML/Object-Oriented Programing) Fall 2021
+### Cyberpunk mini-game (GameMaker Language or GML/Object-Oriented Programing) &nbsp;&nbsp;&nbsp;&nbsp; Fall 2021
 
 * Designed and drew a modern GUI for the gaming interface, which connects to the gaming backend.
 * Designed a multi-level game logic that is fun and challenging, implemented in GML. Organized the code following object-oriented programing principles for maintainability.
