@@ -1,9 +1,12 @@
 Hai (Desmond) Zhu
 ============
 (646) 409-6718 • hz1778@nyu.edu • https://www.linkedin.com/in/hai-zhu-6463021a2 / • https://github.com/dizzyzff
+
+------------
 EDUCATION
 New York University, Courant Institute of Mathematical Sciences, NY Dec 2022
 Bachelor of Arts, Computer Science Major GPA: 3.7
+------------
 TECHNICAL SKILLS
 ● Coding Languages: Python, Java, SQL, HTML, CSS, JavaScript, PHP, C/C++
 ● Skills: Software development, machine learning, data visualization, front-end development
